@@ -9,7 +9,7 @@ $> wget https://raw.githubusercontent.com/Microsoft/OMS-Agent-for-Linux/master/i
 
 ## Quick Install guide Winows
 
-## [Download Script](https://github.com/Microsoft/OMS-Agent-for-Linux/releases/download/OMSAgent_GA_v1.4.1-45/omsagent-1.4.1-45.universal.x86.sh)
+## [Download Script](https://github.com/hamedkardous/OMS-AGENTS/blob/master/OMSInstallAgent.ps)
 
 You need to run the script as an administrator, and you will also need internet access from the server to download the files. However, if you don´t have internet access you could always download the agent somewhere else and copy it to the folder C:\Source and the agent would be installed by the script. Then you could still use the OMS gateway to communicate with OMS.
 
