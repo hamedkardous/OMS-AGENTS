@@ -7,7 +7,7 @@ Run the following commands to download the omsagent, validate the checksum, and 
 $> wget https://raw.githubusercontent.com/Microsoft/OMS-Agent-for-Linux/master/installer/scripts/onboard_agent.sh && sh onboard_agent.sh -w <YOUR OMS WORKSPACE ID> -s <YOUR OMS WORKSPACE PRIMARY KEY>
 ```
 
-## Quick Install guide Winows
+## Quick Install guide Windows
 
 ## [Download Script](https://github.com/hamedkardous/OMS-AGENTS/blob/master/OMSInstallAgent.ps)
 
